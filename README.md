@@ -6,7 +6,7 @@
     \documentclass[xetex,mathserif,serif]{beamer}
     \usetheme{easy}
     
-
+[稍微详细一点的介绍-知乎](https://zhuanlan.zhihu.com/p/69315556 )
     
 效果图:
 
